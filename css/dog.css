@@ -1,0 +1,23 @@
+* {
+  text-align: center;
+  background-color: black; 
+  color: red;
+}
+
+h1 {
+  font-style: italics;
+}
+p {
+    font-style: bold;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20 px;
+    line-height: 30 px;
+}
+img {
+  width: 500px;
+  height: 400px;
+}
